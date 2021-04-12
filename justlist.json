@@ -1,0 +1,20 @@
+{
+   "name": "Cryptos", #List name
+   "logoURI": "https://coin.top/production/upload/logo/TJE3zmZf76XrbemLjUmgkDwakS39s2XdBG.png", #List logo uri
+   "timestamp": 1610339529000, #Update time in millisecond
+   "tokens": [
+       {
+           "chainId": 1,
+           "address": "TJE3zmZf76XrbemLjUmgkDwakS39s2XdBG",
+           "name": "Cryptos",
+           "symbol": "CRY",
+           "decimals": 0,
+           "logoURI": "https://coin.top/production/upload/logo/TJE3zmZf76XrbemLjUmgkDwakS39s2XdBG.png"
+       },
+   ],
+   "version": { #Version info
+       "major": 1, #Major version
+       "minor": 0, #Minor version
+       "patch": 0  #Patch version
+   }
+}
