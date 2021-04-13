@@ -1,1 +1,18 @@
-{"name":"JustSwap Default List","tokens":[{"symbol":"CRY","address":"TJE3zmZf76XrbemLjUmgkDwakS39s2XdBG","chainId":1,"decimals":0,"name":"Cryptos","logoURI":"https://coin.top/production/upload/logo/TJE3zmZf76XrbemLjUmgkDwakS39s2XdBG.png"}],"logoURI":"https://justswap.io/favicon.ico","version":{"patch":0,"major":1,"minor":2},"timestamp":1617890469000}
+{
+	"name": "JustSwap Default List",
+	"tokens": [{
+		"symbol": "CRY",
+		"address": "TJE3zmZf76XrbemLjUmgkDwakS39s2XdBG",
+		"chainId": 1,
+		"decimals": 0,
+		"name": "Cryptos",
+		"logoURI": "https://coin.top/production/upload/logo/TJE3zmZf76XrbemLjUmgkDwakS39s2XdBG.png"
+	}],
+	"logoURI": "https://justswap.io/favicon.ico",
+	"version": {
+		"patch": 0,
+		"major": 1,
+		"minor": 2
+	},
+	"timestamp": 1617890469000
+}
